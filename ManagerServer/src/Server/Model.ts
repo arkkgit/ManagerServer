@@ -5,7 +5,9 @@ export interface Account {
     username: string,
     password: string
 }
-
+/**
+ * asasa
+ */
 
 export interface SessionToken {
     tokenId: string,
