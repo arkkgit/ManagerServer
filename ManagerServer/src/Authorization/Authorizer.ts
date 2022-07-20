@@ -30,7 +30,11 @@ export class Authorizerwee implements TokenGenerator, TokenValidator {
             return undefined;
         }
     }
-
+/**
+ * 
+ * 
+ * auth token fix ....
+ */
     /**
      * 
      * @param tokenId 
