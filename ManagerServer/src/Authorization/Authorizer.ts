@@ -36,6 +36,11 @@ export class Authorizerwee implements TokenGenerator, TokenValidator {
      * @param tokenId 
      * @returns 
      */
+    /**
+     * 
+     * @param tokenId fix 2 applied
+     * @returns 
+     */
 
     public async validateToken(tokenId: string): Promise<TokenRights> {
         const token = await this.sessionTokenDBAccess.getToken(tokenId);
