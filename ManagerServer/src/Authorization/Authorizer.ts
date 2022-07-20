@@ -33,7 +33,7 @@ export class Authorizerwee implements TokenGenerator, TokenValidator {
 /**
  * 
  * 
- * auth token fix ....
+ * auth bug fix .... deleted
  */
     /**
      * 
@@ -41,8 +41,7 @@ export class Authorizerwee implements TokenGenerator, TokenValidator {
      * @returns 
      */
     /**
-     * 
-     * @param tokenId fix 2 applied
+ 
      * @returns 
      */
 
